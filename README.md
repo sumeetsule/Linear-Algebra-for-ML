@@ -1,1 +1,1 @@
-# In this repo I will be learning Linear Algebra for ML
+# In this repo I will be posting my progress of learning Linear Algebra for ML
